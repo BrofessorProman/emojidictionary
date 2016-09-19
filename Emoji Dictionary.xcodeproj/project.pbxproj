@@ -12,6 +12,7 @@
 		7C26C7C41D8F7D1F00C3DCAD /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C26C7C21D8F7D1F00C3DCAD /* Main.storyboard */; };
 		7C26C7C61D8F7D1F00C3DCAD /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7C26C7C51D8F7D1F00C3DCAD /* Assets.xcassets */; };
 		7C26C7C91D8F7D1F00C3DCAD /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7C26C7C71D8F7D1F00C3DCAD /* LaunchScreen.storyboard */; };
+		7C26C7D11D8F8EC200C3DCAD /* DefinitionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7C26C7D01D8F8EC200C3DCAD /* DefinitionViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		7C26C7C51D8F7D1F00C3DCAD /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7C26C7C81D8F7D1F00C3DCAD /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7C26C7CA1D8F7D1F00C3DCAD /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7C26C7D01D8F8EC200C3DCAD /* DefinitionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DefinitionViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				7C26C7BE1D8F7D1E00C3DCAD /* AppDelegate.swift */,
 				7C26C7C01D8F7D1E00C3DCAD /* ViewController.swift */,
+				7C26C7D01D8F8EC200C3DCAD /* DefinitionViewController.swift */,
 				7C26C7C21D8F7D1F00C3DCAD /* Main.storyboard */,
 				7C26C7C51D8F7D1F00C3DCAD /* Assets.xcassets */,
 				7C26C7C71D8F7D1F00C3DCAD /* LaunchScreen.storyboard */,
@@ -137,6 +140,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				7C26C7C11D8F7D1E00C3DCAD /* ViewController.swift in Sources */,
+				7C26C7D11D8F8EC200C3DCAD /* DefinitionViewController.swift in Sources */,
 				7C26C7BF1D8F7D1E00C3DCAD /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
